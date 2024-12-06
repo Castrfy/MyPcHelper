@@ -1,2 +1,2 @@
 # MyPcHelper
-an amautor program writed with python, and my first python application
+My first python application with a gui. Its not usefull at all but looking good for a first python project.
