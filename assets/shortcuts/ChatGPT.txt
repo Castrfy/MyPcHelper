@@ -1,0 +1,1 @@
+start firefox https://chat.openai.com/chat
